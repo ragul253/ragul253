@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ragul253" alt="ragul253" /></a> </p>
 
-- 🔭 I’m currently working on **Blood Bank Management (PHP,HTML,CSS,JAVASCRIPT,MYSQL)**
+- 🔭 My Final Year Project **Blood Bank Management (PHP,HTML,CSS,JAVASCRIPT,MYSQL)**
 
 - 🌱 I’m currently learning **Networking Devices,Random Cyber Vulnerabilities and Scripting**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://itsme-ragul.000webhostapp.com/](https://itsme-ragul.000webhostapp.com/)
 
-- ⚡ Fun fact **Basically I Sing well!**
+- ⚡ Fun fact **Basically I Sings well!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
