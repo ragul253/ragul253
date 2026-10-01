@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Ragul Loganathan</title>
+  <desc id="desc">IT support, workplace technology, practical automation and cyber security.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0f172a"/><stop offset="1" stop-color="#164e63"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".10"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+  <circle cx="1080" cy="95" r="150" fill="#22d3ee" opacity=".05"/>
+  <circle cx="1080" cy="95" r="105" fill="none" stroke="#67e8f9" stroke-opacity=".18"/>
+  <path d="M905 210h100v-60h110v70h85" fill="none" stroke="#67e8f9" stroke-width="2" opacity=".35"/>
+  <circle cx="905" cy="210" r="5" fill="#67e8f9"/>
+  <circle cx="1115" cy="150" r="5" fill="#67e8f9"/>
+  <rect x="64" y="62" width="52" height="5" rx="2.5" fill="#67e8f9"/>
+  <text x="64" y="138" font-family="Arial, Helvetica, sans-serif" font-size="51" font-weight="700" fill="#f8fafc">Ragul Loganathan</text>
+  <text x="66" y="187" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#bae6fd">IT Support · Workplace Technology · Automation</text>
+  <text x="66" y="237" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#cbd5e1">Munich, Germany  /  M.Sc. Cyber Security</text>
+  <text x="66" y="295" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2" fill="#67e8f9">TROUBLESHOOT  •  DOCUMENT  •  AUTOMATE</text>
+</svg>
