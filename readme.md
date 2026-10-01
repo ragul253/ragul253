@@ -1,36 +1,83 @@
-<h1 align="center">Hi 👋, I'm Ragul Loganathan</h1>
-<h3 align="center">A Student Learning the objectives and Fundamentals of Networking,Cyber security and a Little Programming.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ragul253&label=Profile%20views&color=0e75b6&style=flat" alt="ragul253" /> </p>
+![Ragul Loganathan — IT Support, Automation and Cyber Security](assets/profile-banner.svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ragul253" alt="ragul253" /></a> </p>
+**Munich, Germany · IT Support Engineer at SIXT SE · M.Sc. Cyber Security**
 
-- 🔭 My Final Year Project **Blood Bank Management (PHP,HTML,CSS,JAVASCRIPT,MYSQL)**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_my_work-2563EB?style=for-the-badge)](https://ragul253.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ragul-loganathan-764978269)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-334155?style=for-the-badge)](mailto:ragullofficial25@gmail.com)
 
-- 🌱 I’m currently learning **Networking Devices,Random Cyber Vulnerabilities and Scripting**
+</div>
 
-- 👯 Here it's my Mini Project **Employee Leave Management (VB.NET,MYSQL)**
+## 👋 Hello, I'm Ragul
 
-- 👨‍💻 All of my projects are available at [https://itsme-ragul.000webhostapp.com/](https://itsme-ragul.000webhostapp.com/)
+I work where enterprise IT support, workplace technology and security meet. At SIXT, I support Windows and macOS endpoints, troubleshoot meeting-room technology, support executive presentations and build PowerShell reporting tools. Previously, I provided L1/L2 support for 150+ users at BayWa r.e.
 
-- 💬 Ask me about **Networking,Cyber security**
+I completed my **M.Sc. in Cyber Security at Hochschule der Bayerischen Wirtschaft in Munich**. My security background informs how I investigate incidents, assess endpoint issues and document practical solutions. I enjoy making technology easier to support and more reliable for the people using it.
 
-- 📫 How to reach me **ragullofficial25@gmail.com**
+## 🛠️ What I Work With
 
-- 📄 Know about my experiences [https://itsme-ragul.000webhostapp.com/](https://itsme-ragul.000webhostapp.com/)
+| Focus | Tools and practical experience |
+| :--- | :--- |
+| **Enterprise endpoints** | Windows, macOS, Microsoft 365, Intune, Active Directory, Windows 365; device provisioning, onboarding/offboarding and hardware/peripheral troubleshooting |
+| **Workplace and meeting technology** | Microsoft Teams Rooms, CollabOS, Logitech Sync; HDMI/display connectivity, cabling investigations and executive presentation support |
+| **Incident investigation** | ServiceNow, Jira, root cause analysis, Wi-Fi/VPN/DNS troubleshooting, specialist escalation and reusable support documentation |
+| **Operational automation** | PowerShell, read-only SNMP, printer usage counters, CSV reporting and offline/DNS-unresolved device follow-up |
+| **Academic systems and security labs** | Ubuntu, Proxmox, Docker, GNS3, pfSense, ELK Stack/Kibana and Snort |
 
-- ⚡ Fun fact **Basically I Sings well!**
+## 🚀 Selected Work
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ragul loganathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ragul loganathan" height="30" width="40" /></a>
-</p>
+These highlights describe professional work, preparation and academic projects. They are not all published code repositories.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Printer Counter and Device Status Reporting
+**Professional project · PowerShell / read-only SNMP / CSV**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragul253&show_icons=true&locale=en&layout=compact" alt="ragul253" /></p>
+Collected printer usage counters and produced reports with offline and DNS-unresolved device statuses. Reconciled remote data with on-site checks and manual readings when printers were inaccessible or missing from inventory.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragul253&show_icons=true&locale=en" alt="ragul253" /></p>
+### NVIDIA Jetson Edge-Device Preparation
+**Installation and handover planning · Jetson Orin NX / Ubuntu / JetPack**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragul253&" alt="ragul253" /></p>
+Prepared installation and regional handover guidance, assessing platform compatibility, support lifecycle and hardware recovery requirements. This work concerned device preparation and documentation, rather than AI-model development or a completed production rollout.
+
+### Windows 11 CCTV Workstation Security Baseline
+**Security design and documentation**
+
+Designed and documented a baseline for an unmanaged workstation covering encryption, least privilege, application and kiosk controls, host firewall and audit logging, with mappings to recognised security frameworks.
+
+### Layer-Aware Incident Analysis and Decision Support for ICS
+**Completed master's thesis · Controlled academic lab**
+
+Built an incident-prioritisation prototype using **Python, MQTT, Node-RED, InfluxDB and Grafana**. It combines severity, Purdue-layer context, asset criticality and operational condition to explain incident priority. The prototype was evaluated in a controlled ICS lab.
+
+### Linux and Security Monitoring Labs
+**Academic projects · ELK Stack / Kibana / Snort / GNS3**
+
+Built industrial-network log-analysis dashboards and configured Snort on a Linux VM in a simulated network. Used port-scan and ping-flood exercises to check alert generation and analyse logs.
+
+## 💻 Earlier Programming Projects
+
+- **[Blood Bank Management](https://github.com/ragul253/bloodbank)** — BCA project using PHP, HTML, CSS, JavaScript and MySQL.
+- **[Employee Leave Management](https://github.com/ragul253/Leavemngt)** — early application project using VB.NET and MySQL.
+
+## 🎓 Education and Training
+
+- **M.Sc. Cyber Security** — Hochschule der Bayerischen Wirtschaft, Munich · 2024–2026
+- **Bachelor of Computer Applications** — Bengaluru North University · 2020–2023 · GPA 8.60
+- **MTA Networking Fundamentals** · Python for Cyber Security Professionals · Postman API Fundamentals Student Expert · Introduction into Cyber Security and Networking Basics
+
+## 🌍 Beyond the Keyboard
+
+English **B2** · German **A1** · Tamil **native**
+
+Based in Munich. Outside technology, I enjoy singing.
+
+---
+
+<div align="center">
+
+**Reliable support. Clear documentation. Practical automation.**
+
+[Portfolio](https://ragul253.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/ragul-loganathan-764978269) · [Email](mailto:ragullofficial25@gmail.com)
+
+</div>
