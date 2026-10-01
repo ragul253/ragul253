@@ -28,29 +28,29 @@ I completed my **M.Sc. in Cyber Security at Hochschule der Bayerischen Wirtschaf
 
 ## 🚀 Selected Work
 
-These highlights describe professional work, preparation and academic projects. They are not all published code repositories.
+Explore the project repositories below. They currently contain documented overviews; original source files and supporting materials will be added later.
 
-### Printer Counter and Device Status Reporting
+### [Printer Counter and Device Status Reporting](https://github.com/ragul253/powershell-printer-reporting)
 **Professional project · PowerShell / read-only SNMP / CSV**
 
 Collected printer usage counters and produced reports with offline and DNS-unresolved device statuses. Reconciled remote data with on-site checks and manual readings when printers were inaccessible or missing from inventory.
 
-### NVIDIA Jetson Edge-Device Preparation
+### [NVIDIA Jetson Edge-Device Preparation](https://github.com/ragul253/jetson-edge-device-preparation)
 **Installation and handover planning · Jetson Orin NX / Ubuntu / JetPack**
 
 Prepared installation and regional handover guidance, assessing platform compatibility, support lifecycle and hardware recovery requirements. This work concerned device preparation and documentation, rather than AI-model development or a completed production rollout.
 
-### Windows 11 CCTV Workstation Security Baseline
+### [Windows 11 CCTV Workstation Security Baseline](https://github.com/ragul253/windows-workstation-security-baseline)
 **Security design and documentation**
 
 Designed and documented a baseline for an unmanaged workstation covering encryption, least privilege, application and kiosk controls, host firewall and audit logging, with mappings to recognised security frameworks.
 
-### Layer-Aware Incident Analysis and Decision Support for ICS
+### [Layer-Aware Incident Analysis and Decision Support for ICS](https://github.com/ragul253/ics-incident-prioritisation)
 **Completed master's thesis · Controlled academic lab**
 
 Built an incident-prioritisation prototype using **Python, MQTT, Node-RED, InfluxDB and Grafana**. It combines severity, Purdue-layer context, asset criticality and operational condition to explain incident priority. The prototype was evaluated in a controlled ICS lab.
 
-### Linux and Security Monitoring Labs
+### [Linux and Security Monitoring Labs](https://github.com/ragul253/linux-security-monitoring-labs)
 **Academic projects · ELK Stack / Kibana / Snort / GNS3**
 
 Built industrial-network log-analysis dashboards and configured Snort on a Linux VM in a simulated network. Used port-scan and ping-flood exercises to check alert generation and analyse logs.
